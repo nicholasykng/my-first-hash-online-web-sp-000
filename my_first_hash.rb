@@ -2,7 +2,6 @@ def my_hash
   together = {"umbrella" => "academy", "stranger" => "things"}
 end
 
-end
 
 
 def shipping_manifest
